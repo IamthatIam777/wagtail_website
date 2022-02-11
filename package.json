@@ -51,7 +51,7 @@
         "ionicons": "^2",
         "jquery": "^3.5.1",
         "jquery-ui": "^1.12.1",
-        "node-sass": "^4.14.1",
+        "node-sass": "^7.0.0",
         "normalize.css": "^8.0.1",
         "popper.js": "^1.16.1",
         "postcss-normalize": "^9.0.0",
